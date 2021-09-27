@@ -1,0 +1,383 @@
+13:14:08.834 [main] INFO  com.amazon.runner.Runner - logged in rithik
+13:20:48.199 [main] INFO  com.amazon.runner.Runner - logged in rithik
+13:20:49.745 [main] INFO  com.amazon.runner.Runner - searched for dining table and verified it
+13:21:22.891 [main] INFO  com.amazon.runner.Runner - clicked on storage and verfied it
+13:21:24.455 [main] INFO  com.amazon.runner.Runner - clicked on study and verfied it
+13:21:25.183 [main] INFO  com.amazon.runner.Runner - clicked on kids and verfied it
+13:21:25.314 [main] INFO  com.amazon.runner.Runner - clicked on help and verified it
+13:21:25.391 [main] INFO  com.amazon.runner.Runner - clicked on giftcard and verified it
+13:22:09.491 [main] INFO  com.amazon.runner.Runner - logged in rithik
+13:22:13.942 [main] INFO  com.amazon.runner.Runner - searched for dining table and verified it
+13:22:36.327 [main] INFO  com.amazon.runner.Runner - clicked on bedroom and verfied it
+13:22:37.156 [main] INFO  com.amazon.runner.Runner - clicked on storage and verfied it
+13:22:48.871 [main] INFO  com.amazon.runner.Runner - clicked on help and verified it
+13:22:50.957 [main] INFO  com.amazon.runner.Runner - clicked on giftcard and verified it
+13:24:23.794 [main] INFO  com.amazon.runner.Runner - logged in rithik
+13:24:26.708 [main] INFO  com.amazon.runner.Runner - searched for dining table and verified it
+13:24:49.144 [main] INFO  com.amazon.runner.Runner - clicked on bedroom and verfied it
+13:24:49.957 [main] INFO  com.amazon.runner.Runner - clicked on storage and verfied it
+13:25:02.490 [main] INFO  com.amazon.runner.Runner - clicked on kids and verfied it
+13:25:02.727 [main] INFO  com.amazon.runner.Runner - clicked on help and verified it
+13:25:05.463 [main] INFO  com.amazon.runner.Runner - clicked on giftcard and verified it
+13:27:36.646 [main] INFO  com.amazon.runner.Runner - logged in rithik
+13:27:38.888 [main] INFO  com.amazon.runner.Runner - searched for dining table and verified it
+13:27:42.431 [main] INFO  com.amazon.runner.Runner - clicked on sale and verfied it
+13:27:44.283 [main] INFO  com.amazon.runner.Runner - clicked on living and verfied it
+13:27:56.172 [main] INFO  com.amazon.runner.Runner - clicked on storage and verfied it
+13:27:57.117 [main] INFO  com.amazon.runner.Runner - clicked on study and verfied it
+13:28:08.733 [main] INFO  com.amazon.runner.Runner - clicked on help and verified it
+13:28:10.226 [main] INFO  com.amazon.runner.Runner - clicked on giftcard and verified it
+13:29:09.790 [main] INFO  com.amazon.runner.Runner - logged in rithik
+13:29:12.242 [main] INFO  com.amazon.runner.Runner - searched for dining table and verified it
+13:29:20.218 [main] INFO  com.amazon.runner.Runner - clicked on sale and verfied it
+13:29:26.665 [main] INFO  com.amazon.runner.Runner - clicked on living and verfied it
+13:29:29.243 [main] INFO  com.amazon.runner.Runner - clicked on bedroom and verfied it
+13:29:30.028 [main] INFO  com.amazon.runner.Runner - clicked on storage and verfied it
+13:29:33.836 [main] INFO  com.amazon.runner.Runner - clicked on kids and verfied it
+13:29:33.942 [main] INFO  com.amazon.runner.Runner - clicked on help and verified it
+13:31:08.137 [main] INFO  com.amazon.runner.Runner - logged in rithik
+13:31:13.114 [main] INFO  com.amazon.runner.Runner - searched for dining table and verified it
+13:31:18.307 [main] INFO  com.amazon.runner.Runner - clicked on sale and verfied it
+13:31:19.884 [main] INFO  com.amazon.runner.Runner - clicked on living and verfied it
+13:31:22.284 [main] INFO  com.amazon.runner.Runner - clicked on bedroom and verfied it
+13:31:23.186 [main] INFO  com.amazon.runner.Runner - clicked on storage and verfied it
+13:31:36.534 [main] INFO  com.amazon.runner.Runner - clicked on kids and verfied it
+13:31:37.549 [main] INFO  com.amazon.runner.Runner - clicked on help and verified it
+13:31:38.997 [main] INFO  com.amazon.runner.Runner - clicked on giftcard and verified it
+13:32:20.559 [main] INFO  com.amazon.runner.Runner - logged in rithik
+13:32:21.953 [main] INFO  com.amazon.runner.Runner - searched for dining table and verified it
+13:32:44.383 [main] INFO  com.amazon.runner.Runner - clicked on bedroom and verfied it
+13:32:45.801 [main] INFO  com.amazon.runner.Runner - clicked on storage and verfied it
+13:32:57.237 [main] INFO  com.amazon.runner.Runner - clicked on kids and verfied it
+13:32:57.968 [main] INFO  com.amazon.runner.Runner - clicked on help and verified it
+13:32:59.852 [main] INFO  com.amazon.runner.Runner - clicked on giftcard and verified it
+13:34:03.890 [main] INFO  com.amazon.runner.Runner - logged in rithik
+13:34:06.843 [main] INFO  com.amazon.runner.Runner - searched for dining table and verified it
+13:34:10.561 [main] INFO  com.amazon.runner.Runner - clicked on sale and verfied it
+13:34:12.427 [main] INFO  com.amazon.runner.Runner - clicked on living and verfied it
+13:34:14.346 [main] INFO  com.amazon.runner.Runner - clicked on bedroom and verfied it
+13:34:15.020 [main] INFO  com.amazon.runner.Runner - clicked on storage and verfied it
+13:34:27.306 [main] INFO  com.amazon.runner.Runner - clicked on kids and verfied it
+13:34:31.588 [main] INFO  com.amazon.runner.Runner - clicked on help and verified it
+13:34:33.439 [main] INFO  com.amazon.runner.Runner - clicked on giftcard and verified it
+13:35:22.968 [main] INFO  com.amazon.runner.Runner - logged in rithik
+13:35:32.104 [main] INFO  com.amazon.runner.Runner - searched for dining table and verified it
+13:35:54.191 [main] INFO  com.amazon.runner.Runner - clicked on bedroom and verfied it
+13:35:56.129 [main] INFO  com.amazon.runner.Runner - clicked on storage and verfied it
+13:35:57.476 [main] INFO  com.amazon.runner.Runner - clicked on study and verfied it
+13:36:08.595 [main] INFO  com.amazon.runner.Runner - clicked on help and verified it
+13:36:10.520 [main] INFO  com.amazon.runner.Runner - clicked on giftcard and verified it
+13:46:10.855 [main] INFO  com.amazon.runner.Runner - logged in rithik
+13:46:16.802 [main] INFO  com.amazon.runner.Runner - searched for dining table and verified it
+13:46:20.361 [main] INFO  com.amazon.runner.Runner - clicked on sale and verfied it
+13:46:23.012 [main] INFO  com.amazon.runner.Runner - clicked on living and verfied it
+13:46:24.914 [main] INFO  com.amazon.runner.Runner - clicked on bedroom and verfied it
+13:46:27.790 [main] INFO  com.amazon.runner.Runner - clicked on storage and verfied it
+13:46:30.193 [main] INFO  com.amazon.runner.Runner - clicked on study and verfied it
+13:46:31.488 [main] INFO  com.amazon.runner.Runner - clicked on kids and verfied it
+13:46:34.874 [main] INFO  com.amazon.runner.Runner - clicked on giftcard and verified it
+13:47:45.248 [main] INFO  com.amazon.runner.Runner - logged in rithik
+13:47:49.704 [main] INFO  com.amazon.runner.Runner - searched for dining table and verified it
+13:47:53.175 [main] INFO  com.amazon.runner.Runner - clicked on sale and verfied it
+13:47:54.602 [main] INFO  com.amazon.runner.Runner - clicked on living and verfied it
+13:48:11.738 [main] INFO  com.amazon.runner.Runner - clicked on storage and verfied it
+13:48:13.235 [main] INFO  com.amazon.runner.Runner - clicked on study and verfied it
+13:48:14.882 [main] INFO  com.amazon.runner.Runner - clicked on kids and verfied it
+13:48:17.970 [main] INFO  com.amazon.runner.Runner - clicked on giftcard and verified it
+13:52:31.616 [main] INFO  com.amazon.runner.Runner - logged in rithik
+13:52:35.281 [main] INFO  com.amazon.runner.Runner - searched for dining table and verified it
+13:52:38.467 [main] INFO  com.amazon.runner.Runner - clicked on sale and verfied it
+13:52:39.682 [main] INFO  com.amazon.runner.Runner - clicked on living and verfied it
+13:52:41.895 [main] INFO  com.amazon.runner.Runner - clicked on bedroom and verfied it
+13:52:43.580 [main] INFO  com.amazon.runner.Runner - clicked on storage and verfied it
+13:52:44.995 [main] INFO  com.amazon.runner.Runner - clicked on study and verfied it
+13:52:46.248 [main] INFO  com.amazon.runner.Runner - clicked on kids and verfied it
+13:52:46.476 [main] INFO  com.amazon.runner.Runner - clicked on giftcard and verified it
+13:52:48.842 [main] INFO  com.amazon.runner.Runner - clicked on help and verified it
+14:07:11.540 [main] INFO  com.amazon.runner.Runner - logged in rithik
+14:07:20.398 [main] INFO  com.amazon.runner.Runner - searched for dining table and verified it
+14:07:22.687 [main] INFO  com.amazon.runner.Runner - searched for dining table and verified it
+14:07:25.735 [main] INFO  com.amazon.runner.Runner - clicked on sale and verfied it
+14:07:27.046 [main] INFO  com.amazon.runner.Runner - clicked on living and verfied it
+14:07:44.308 [main] INFO  com.amazon.runner.Runner - clicked on storage and verfied it
+14:07:46.057 [main] INFO  com.amazon.runner.Runner - clicked on study and verfied it
+14:07:47.797 [main] INFO  com.amazon.runner.Runner - clicked on kids and verfied it
+14:07:50.007 [main] INFO  com.amazon.runner.Runner - clicked on giftcard and verified it
+14:09:37.303 [main] INFO  com.amazon.runner.Runner - logged in rithik
+14:09:40.307 [main] INFO  com.amazon.runner.Runner - searched for dining table and verified it
+14:09:44.212 [main] INFO  com.amazon.runner.Runner - clicked on sale and verfied it
+14:09:46.127 [main] INFO  com.amazon.runner.Runner - clicked on living and verfied it
+14:09:47.686 [main] INFO  com.amazon.runner.Runner - clicked on bedroom and verfied it
+14:11:52.223 [main] INFO  com.amazon.runner.Runner - logged in rithik
+14:12:01.203 [main] INFO  com.amazon.runner.Runner - searched for dining table and verified it
+14:12:04.105 [main] INFO  com.amazon.runner.Runner - clicked on sale and verfied it
+14:12:42.543 [main] INFO  com.amazon.runner.Runner - logged in rithik
+14:12:45.010 [main] INFO  com.amazon.runner.Runner - searched for dining table and verified it
+14:12:46.998 [main] INFO  com.amazon.runner.Runner - searched for dining table and verified it
+14:12:50.055 [main] INFO  com.amazon.runner.Runner - clicked on sale and verfied it
+14:19:54.932 [main] INFO  com.amazon.runner.Runner - logged in rithik
+14:20:00.841 [main] INFO  com.amazon.runner.Runner - clicked on sale and verfied it
+14:20:04.917 [main] INFO  com.amazon.runner.Runner - clicked on living and verfied it
+14:20:09.148 [main] INFO  com.amazon.runner.Runner - clicked on bedroom and verfied it
+14:20:09.882 [main] INFO  com.amazon.runner.Runner - clicked on storage and verfied it
+14:20:13.801 [main] INFO  com.amazon.runner.Runner - clicked on kids and verfied it
+14:21:52.663 [main] INFO  com.amazon.runner.Runner - logged in rithik
+14:21:57.760 [main] INFO  com.amazon.runner.Runner - searched for dining table and verified it
+14:22:01.177 [main] INFO  com.amazon.runner.Runner - searched for dining table and verified it
+14:22:02.321 [main] INFO  com.amazon.runner.Runner - searched for dining table and verified it
+14:22:04.330 [main] INFO  com.amazon.runner.Runner - searched for dining table and verified it
+14:22:05.575 [main] INFO  com.amazon.runner.Runner - searched for dining table and verified it
+14:22:07.549 [main] INFO  com.amazon.runner.Runner - searched for dining table and verified it
+14:22:41.847 [main] INFO  com.amazon.runner.Runner - logged in rithik
+14:22:47.096 [main] INFO  com.amazon.runner.Runner - searched for dining table and verified it
+14:22:48.795 [main] INFO  com.amazon.runner.Runner - searched for dining table and verified it
+14:22:50.628 [main] INFO  com.amazon.runner.Runner - searched for dining table and verified it
+14:22:52.411 [main] INFO  com.amazon.runner.Runner - searched for dining table and verified it
+14:22:54.224 [main] INFO  com.amazon.runner.Runner - searched for dining table and verified it
+14:22:55.895 [main] INFO  com.amazon.runner.Runner - searched for dining table and verified it
+14:22:57.628 [main] INFO  com.amazon.runner.Runner - searched for dining table and verified it
+14:23:00.632 [main] INFO  com.amazon.runner.Runner - clicked on sale and verfied it
+14:23:02.495 [main] INFO  com.amazon.runner.Runner - clicked on living and verfied it
+14:24:56.729 [main] INFO  com.amazon.runner.Runner - logged in rithik
+14:25:00.974 [main] INFO  com.amazon.runner.Runner - searched for dining table and verified it
+14:25:04.459 [main] INFO  com.amazon.runner.Runner - clicked on sale and verfied it
+14:25:06.144 [main] INFO  com.amazon.runner.Runner - clicked on living and verfied it
+14:25:07.524 [main] INFO  com.amazon.runner.Runner - clicked on bedroom and verfied it
+14:25:08.268 [main] INFO  com.amazon.runner.Runner - clicked on storage and verfied it
+14:25:11.006 [main] INFO  com.amazon.runner.Runner - clicked on kids and verfied it
+14:25:12.825 [main] INFO  com.amazon.runner.Runner - clicked on giftcard and verified it
+14:29:09.459 [main] INFO  com.amazon.runner.Runner - logged in rithik
+14:29:15.123 [main] INFO  com.amazon.runner.Runner - searched for dining table and verified it
+14:29:18.912 [main] INFO  com.amazon.runner.Runner - clicked on sale and verfied it
+14:29:20.933 [main] INFO  com.amazon.runner.Runner - clicked on living and verfied it
+14:29:22.386 [main] INFO  com.amazon.runner.Runner - clicked on bedroom and verfied it
+14:29:24.067 [main] INFO  com.amazon.runner.Runner - clicked on storage and verfied it
+14:29:24.709 [main] INFO  com.amazon.runner.Runner - clicked on study and verfied it
+14:29:25.923 [main] INFO  com.amazon.runner.Runner - clicked on giftcard and verified it
+14:30:35.208 [main] INFO  com.amazon.runner.Runner - logged in rithik
+14:30:43.969 [main] INFO  com.amazon.runner.Runner - searched for dining table and verified it
+14:30:47.519 [main] INFO  com.amazon.runner.Runner - clicked on sale and verfied it
+14:30:49.246 [main] INFO  com.amazon.runner.Runner - clicked on living and verfied it
+14:30:50.922 [main] INFO  com.amazon.runner.Runner - clicked on bedroom and verfied it
+14:30:51.511 [main] INFO  com.amazon.runner.Runner - clicked on storage and verfied it
+14:31:09.940 [main] INFO  com.amazon.runner.Runner - clicked on giftcard and verified it
+14:31:12.527 [main] INFO  com.amazon.runner.Runner - clicked on bulkorder and verified it
+14:31:46.058 [main] INFO  com.amazon.runner.Runner - logged in rithik
+14:31:50.479 [main] INFO  com.amazon.runner.Runner - searched for dining table and verified it
+14:31:53.854 [main] INFO  com.amazon.runner.Runner - clicked on sale and verfied it
+14:31:55.255 [main] INFO  com.amazon.runner.Runner - clicked on living and verfied it
+14:31:56.045 [main] INFO  com.amazon.runner.Runner - clicked on bedroom and verfied it
+14:32:13.782 [main] INFO  com.amazon.runner.Runner - clicked on study and verfied it
+14:32:15.142 [main] INFO  com.amazon.runner.Runner - clicked on kids and verfied it
+14:33:21.562 [main] INFO  com.amazon.runner.Runner - logged in rithik
+14:33:24.192 [main] INFO  com.amazon.runner.Runner - searched for dining table and verified it
+14:33:56.367 [main] INFO  com.amazon.runner.Runner - clicked on bedroom and verfied it
+14:33:57.956 [main] INFO  com.amazon.runner.Runner - clicked on storage and verfied it
+14:33:59.245 [main] INFO  com.amazon.runner.Runner - clicked on study and verfied it
+14:34:16.962 [main] INFO  com.amazon.runner.Runner - clicked on giftcard and verified it
+14:34:18.819 [main] INFO  com.amazon.runner.Runner - clicked on bulkorder and verified it
+14:48:24.200 [main] INFO  com.urbanladder.runner.Runner - logged in rithik
+14:48:33.299 [main] INFO  com.urbanladder.runner.Runner - searched for dining table and verified it
+14:49:07.829 [main] INFO  com.urbanladder.runner.Runner - clicked on bedroom and verfied it
+14:49:26.102 [main] INFO  com.urbanladder.runner.Runner - clicked on study and verfied it
+14:49:28.331 [main] INFO  com.urbanladder.runner.Runner - clicked on kids and verfied it
+14:49:31.469 [main] INFO  com.urbanladder.runner.Runner - clicked on giftcard and verified it
+14:49:36.741 [main] INFO  com.urbanladder.runner.Runner - clicked on bulkorder and verified it
+14:51:03.665 [main] INFO  com.urbanladder.runner.Runner - logged in rithik
+14:51:14.010 [main] INFO  com.urbanladder.runner.Runner - searched for dining table and verified it
+14:51:19.750 [main] INFO  com.urbanladder.runner.Runner - clicked on sale and verfied it
+14:51:22.379 [main] INFO  com.urbanladder.runner.Runner - clicked on living and verfied it
+14:51:24.027 [main] INFO  com.urbanladder.runner.Runner - clicked on bedroom and verfied it
+14:51:24.733 [main] INFO  com.urbanladder.runner.Runner - clicked on storage and verfied it
+14:51:43.014 [main] INFO  com.urbanladder.runner.Runner - clicked on giftcard and verified it
+14:51:49.510 [main] INFO  com.urbanladder.runner.Runner - clicked on bulkorder and verified it
+15:08:58.446 [main] INFO  com.urbanladder.runner.Runner - logged in rithik
+15:09:10.517 [main] INFO  com.urbanladder.runner.Runner - searched for dining table and verified it
+15:09:43.757 [main] INFO  com.urbanladder.runner.Runner - clicked on bedroom and verfied it
+15:09:45.310 [main] INFO  com.urbanladder.runner.Runner - clicked on storage and verfied it
+15:09:46.229 [main] INFO  com.urbanladder.runner.Runner - clicked on study and verfied it
+15:09:47.228 [main] INFO  com.urbanladder.runner.Runner - clicked on giftcard and verified it
+15:09:51.441 [main] INFO  com.urbanladder.runner.Runner - clicked on bulkorder and verified it
+15:14:44.581 [main] INFO  com.urbanladder.runner.Runner - logged in rithik
+15:14:54.719 [main] INFO  com.urbanladder.runner.Runner - searched for dining table and verified it
+15:14:58.250 [main] INFO  com.urbanladder.runner.Runner - clicked on sale and verfied it
+15:15:00.172 [main] INFO  com.urbanladder.runner.Runner - clicked on living and verfied it
+15:15:02.616 [main] INFO  com.urbanladder.runner.Runner - clicked on bedroom and verfied it
+15:15:04.837 [main] INFO  com.urbanladder.runner.Runner - clicked on storage and verfied it
+15:15:06.746 [main] INFO  com.urbanladder.runner.Runner - clicked on study and verfied it
+15:15:08.380 [main] INFO  com.urbanladder.runner.Runner - clicked on kids and verfied it
+15:15:10.914 [main] INFO  com.urbanladder.runner.Runner - clicked on giftcard and verified it
+15:15:13.309 [main] INFO  com.urbanladder.runner.Runner - clicked on bulkorder and verified it
+15:19:39.326 [main] INFO  com.urbanladder.runner.Runner - logged in rithik
+15:19:50.382 [main] INFO  com.urbanladder.runner.Runner - searched for dining table and verified it
+15:20:22.970 [main] INFO  com.urbanladder.runner.Runner - clicked on bedroom and verfied it
+15:20:40.197 [main] INFO  com.urbanladder.runner.Runner - clicked on study and verfied it
+15:20:41.885 [main] INFO  com.urbanladder.runner.Runner - clicked on kids and verfied it
+15:20:44.269 [main] INFO  com.urbanladder.runner.Runner - clicked on giftcard and verified it
+15:20:46.429 [main] INFO  com.urbanladder.runner.Runner - clicked on bulkorder and verified it
+15:23:45.729 [main] INFO  com.urbanladder.runner.Runner - logged in rithik
+15:23:51.116 [main] INFO  com.urbanladder.runner.Runner - searched for dining table and verified it
+15:25:47.531 [main] INFO  com.urbanladder.runner.Runner - logged in rithik
+15:25:51.902 [main] INFO  com.urbanladder.runner.Runner - searched for dining table and verified it
+15:25:56.325 [main] INFO  com.urbanladder.runner.Runner - clicked on sale and verfied it
+15:25:57.756 [main] INFO  com.urbanladder.runner.Runner - clicked on living and verfied it
+15:25:59.434 [main] INFO  com.urbanladder.runner.Runner - clicked on bedroom and verfied it
+15:26:00.005 [main] INFO  com.urbanladder.runner.Runner - clicked on storage and verfied it
+15:26:04.644 [main] INFO  com.urbanladder.runner.Runner - clicked on kids and verfied it
+15:26:11.142 [main] INFO  com.urbanladder.runner.Runner - clicked on giftcard and verified it
+15:26:13.507 [main] INFO  com.urbanladder.runner.Runner - clicked on bulkorder and verified it
+15:27:31.423 [main] INFO  com.urbanladder.runner.Runner - logged in rithik
+15:27:37.428 [main] INFO  com.urbanladder.runner.Runner - searched for dining table and verified it
+15:28:10.779 [main] INFO  com.urbanladder.runner.Runner - clicked on bedroom and verfied it
+15:28:11.572 [main] INFO  com.urbanladder.runner.Runner - clicked on storage and verfied it
+15:29:28.571 [main] INFO  com.urbanladder.runner.Runner - logged in rithik
+15:29:34.070 [main] INFO  com.urbanladder.runner.Runner - searched for dining table and verified it
+15:29:43.829 [main] INFO  com.urbanladder.runner.Runner - clicked on sale and verfied it
+15:29:45.834 [main] INFO  com.urbanladder.runner.Runner - clicked on living and verfied it
+15:29:47.356 [main] INFO  com.urbanladder.runner.Runner - clicked on bedroom and verfied it
+15:29:49.473 [main] INFO  com.urbanladder.runner.Runner - clicked on storage and verfied it
+15:29:51.027 [main] INFO  com.urbanladder.runner.Runner - clicked on study and verfied it
+15:29:52.216 [main] INFO  com.urbanladder.runner.Runner - clicked on kids and verfied it
+15:31:33.044 [main] INFO  com.urbanladder.runner.Runner - logged in rithik
+15:31:39.857 [main] INFO  com.urbanladder.runner.Runner - searched for dining table and verified it
+15:31:50.113 [main] INFO  com.urbanladder.runner.Runner - clicked on sale and verfied it
+15:31:52.251 [main] INFO  com.urbanladder.runner.Runner - clicked on living and verfied it
+15:31:54.294 [main] INFO  com.urbanladder.runner.Runner - clicked on bedroom and verfied it
+15:31:54.888 [main] INFO  com.urbanladder.runner.Runner - clicked on storage and verfied it
+15:31:57.995 [main] INFO  com.urbanladder.runner.Runner - clicked on kids and verfied it
+15:32:07.600 [main] INFO  com.urbanladder.runner.Runner - clicked on giftcard and verified it
+15:32:09.463 [main] INFO  com.urbanladder.runner.Runner - clicked on bulkorder and verified it
+15:33:49.030 [main] INFO  com.urbanladder.runner.Runner - logged in rithik
+15:33:57.594 [main] INFO  com.urbanladder.runner.Runner - searched for dining table and verified it
+15:34:07.643 [main] INFO  com.urbanladder.runner.Runner - clicked on sale and verfied it
+15:34:09.287 [main] INFO  com.urbanladder.runner.Runner - clicked on living and verfied it
+15:34:11.781 [main] INFO  com.urbanladder.runner.Runner - clicked on bedroom and verfied it
+15:34:13.911 [main] INFO  com.urbanladder.runner.Runner - clicked on storage and verfied it
+15:34:22.509 [main] INFO  com.urbanladder.runner.Runner - clicked on study and verfied it
+15:34:23.746 [main] INFO  com.urbanladder.runner.Runner - clicked on kids and verfied it
+15:34:33.673 [main] INFO  com.urbanladder.runner.Runner - clicked on giftcard and verified it
+15:34:35.770 [main] INFO  com.urbanladder.runner.Runner - clicked on bulkorder and verified it
+16:53:36.838 [main] INFO  com.urbanladder.runner.Runner - logged in rithik
+16:53:44.913 [main] INFO  com.urbanladder.runner.Runner - searched for dining table and verified it
+16:53:57.869 [main] INFO  com.urbanladder.runner.Runner - clicked on sale and verfied it
+16:53:59.473 [main] INFO  com.urbanladder.runner.Runner - clicked on living and verfied it
+16:54:02.006 [main] INFO  com.urbanladder.runner.Runner - clicked on bedroom and verfied it
+16:54:26.565 [main] INFO  com.urbanladder.runner.Runner - clicked on study and verfied it
+16:54:29.286 [main] INFO  com.urbanladder.runner.Runner - clicked on kids and verfied it
+16:54:41.348 [main] INFO  com.urbanladder.runner.Runner - clicked on giftcard and verified it
+16:54:43.293 [main] INFO  com.urbanladder.runner.Runner - clicked on bulkorder and verified it
+16:57:38.926 [main] INFO  com.urbanladder.runner.Runner - logged in rithik
+16:57:50.364 [main] INFO  com.urbanladder.runner.Runner - searched for dining table and verified it
+16:58:01.774 [main] INFO  com.urbanladder.runner.Runner - clicked on sale and verfied it
+16:58:03.306 [main] INFO  com.urbanladder.runner.Runner - clicked on living and verfied it
+16:58:05.192 [main] INFO  com.urbanladder.runner.Runner - clicked on bedroom and verfied it
+16:58:13.668 [main] INFO  com.urbanladder.runner.Runner - clicked on storage and verfied it
+16:58:22.000 [main] INFO  com.urbanladder.runner.Runner - clicked on study and verfied it
+16:58:25.093 [main] INFO  com.urbanladder.runner.Runner - clicked on kids and verfied it
+16:58:35.842 [main] INFO  com.urbanladder.runner.Runner - clicked on giftcard and verified it
+16:58:37.536 [main] INFO  com.urbanladder.runner.Runner - clicked on bulkorder and verified it
+17:28:48.922 [main] INFO  com.urbanladder.runner.Runner - logged in rithik
+17:28:52.161 [main] INFO  com.urbanladder.runner.Runner - searched for dining table and verified it
+17:29:01.999 [main] INFO  com.urbanladder.runner.Runner - clicked on sale and verfied it
+17:29:04.041 [main] INFO  com.urbanladder.runner.Runner - clicked on living and verfied it
+17:29:05.707 [main] INFO  com.urbanladder.runner.Runner - clicked on bedroom and verfied it
+17:29:14.269 [main] INFO  com.urbanladder.runner.Runner - clicked on storage and verfied it
+17:29:22.663 [main] INFO  com.urbanladder.runner.Runner - clicked on study and verfied it
+17:29:23.947 [main] INFO  com.urbanladder.runner.Runner - clicked on kids and verfied it
+17:29:33.855 [main] INFO  com.urbanladder.runner.Runner - clicked on giftcard and verified it
+17:29:36.755 [main] INFO  com.urbanladder.runner.Runner - clicked on bulkorder and verified it
+18:07:05.367 [main] INFO  com.urbanladder.runner.Runner - logged in rithik
+18:07:15.937 [main] INFO  com.urbanladder.runner.Runner - searched for dining table and verified it
+18:07:26.882 [main] INFO  com.urbanladder.runner.Runner - clicked on sale and verfied it
+18:07:28.417 [main] INFO  com.urbanladder.runner.Runner - clicked on living and verfied it
+18:07:52.573 [main] INFO  com.urbanladder.runner.Runner - clicked on storage and verfied it
+18:08:00.931 [main] INFO  com.urbanladder.runner.Runner - clicked on study and verfied it
+18:08:03.123 [main] INFO  com.urbanladder.runner.Runner - clicked on kids and verfied it
+18:08:13.083 [main] INFO  com.urbanladder.runner.Runner - clicked on giftcard and verified it
+18:08:15.373 [main] INFO  com.urbanladder.runner.Runner - clicked on bulkorder and verified it
+18:13:44.425 [main] INFO  com.urbanladder.runner.Runner - logged in rithik
+18:13:49.072 [main] INFO  com.urbanladder.runner.Runner - searched for dining table and verified it
+18:13:59.069 [main] INFO  com.urbanladder.runner.Runner - clicked on sale and verfied it
+18:14:07.722 [main] INFO  com.urbanladder.runner.Runner - clicked on living and verfied it
+18:14:15.900 [main] INFO  com.urbanladder.runner.Runner - clicked on bedroom and verfied it
+18:14:24.361 [main] INFO  com.urbanladder.runner.Runner - clicked on storage and verfied it
+18:14:32.803 [main] INFO  com.urbanladder.runner.Runner - clicked on study and verfied it
+18:14:41.096 [main] INFO  com.urbanladder.runner.Runner - clicked on kids and verfied it
+18:14:50.517 [main] INFO  com.urbanladder.runner.Runner - clicked on giftcard and verified it
+18:14:52.698 [main] INFO  com.urbanladder.runner.Runner - clicked on bulkorder and verified it
+18:43:13.375 [main] INFO  com.urbanladder.runner.Runner - logged in rithik
+18:43:23.159 [main] INFO  com.urbanladder.runner.Runner - searched for dining table and verified it
+18:43:33.028 [main] INFO  com.urbanladder.runner.Runner - clicked on sale and verfied it
+18:43:41.611 [main] INFO  com.urbanladder.runner.Runner - clicked on living and verfied it
+18:43:49.900 [main] INFO  com.urbanladder.runner.Runner - clicked on bedroom and verfied it
+18:43:58.650 [main] INFO  com.urbanladder.runner.Runner - clicked on storage and verfied it
+18:44:07.220 [main] INFO  com.urbanladder.runner.Runner - clicked on study and verfied it
+18:44:15.726 [main] INFO  com.urbanladder.runner.Runner - clicked on kids and verfied it
+18:44:25.054 [main] INFO  com.urbanladder.runner.Runner - clicked on giftcard and verified it
+18:44:27.390 [main] INFO  com.urbanladder.runner.Runner - clicked on bulkorder and verified it
+19:07:21.593 [main] INFO  com.urbanladder.runner.Runner - logged in rithik
+19:07:30.595 [main] INFO  com.urbanladder.runner.Runner - searched for dining table and verified it
+19:07:46.316 [main] INFO  com.urbanladder.runner.Runner - clicked on sale and verfied it
+19:07:54.909 [main] INFO  com.urbanladder.runner.Runner - clicked on living and verfied it
+19:08:03.633 [main] INFO  com.urbanladder.runner.Runner - clicked on bedroom and verfied it
+19:08:12.120 [main] INFO  com.urbanladder.runner.Runner - clicked on storage and verfied it
+19:08:20.602 [main] INFO  com.urbanladder.runner.Runner - clicked on study and verfied it
+19:08:28.838 [main] INFO  com.urbanladder.runner.Runner - clicked on kids and verfied it
+19:08:38.585 [main] INFO  com.urbanladder.runner.Runner - clicked on giftcard and verified it
+19:08:41.029 [main] INFO  com.urbanladder.runner.Runner - clicked on bulkorder and verified it
+19:44:00.562 [main] INFO  com.urbanladder.runner.Runner - logged in rithik
+19:44:07.777 [main] INFO  com.urbanladder.runner.Runner - searched for dining table and verified it
+19:44:19.058 [main] INFO  com.urbanladder.runner.Runner - clicked on sale and verfied it
+19:44:27.542 [main] INFO  com.urbanladder.runner.Runner - clicked on living and verfied it
+19:44:36.063 [main] INFO  com.urbanladder.runner.Runner - clicked on bedroom and verfied it
+19:44:44.746 [main] INFO  com.urbanladder.runner.Runner - clicked on storage and verfied it
+19:44:52.984 [main] INFO  com.urbanladder.runner.Runner - clicked on study and verfied it
+19:45:01.202 [main] INFO  com.urbanladder.runner.Runner - clicked on kids and verfied it
+19:45:10.792 [main] INFO  com.urbanladder.runner.Runner - clicked on giftcard and verified it
+19:45:13.253 [main] INFO  com.urbanladder.runner.Runner - clicked on bulkorder and verified it
+13:07:51.922 [main] INFO  com.urbanladder.runner.Runner - logged in rithik
+13:08:50.367 [main] INFO  com.urbanladder.runner.Runner - clicked on bedroom and verfied it
+13:09:04.990 [main] INFO  com.urbanladder.runner.Runner - clicked on storage and verfied it
+13:09:18.313 [main] INFO  com.urbanladder.runner.Runner - clicked on study and verfied it
+13:09:32.620 [main] INFO  com.urbanladder.runner.Runner - clicked on kids and verfied it
+13:09:42.693 [main] INFO  com.urbanladder.runner.Runner - clicked on giftcard and verified it
+13:09:44.496 [main] INFO  com.urbanladder.runner.Runner - clicked on bulkorder and verified it
+14:40:28.268 [main] INFO  com.urbanladder.runner.Runner - logged in rithik
+14:42:23.443 [main] INFO  com.urbanladder.runner.Runner - clicked on kids and verfied it
+14:42:34.995 [main] INFO  com.urbanladder.runner.Runner - clicked on giftcard and verified it
+14:42:36.977 [main] INFO  com.urbanladder.runner.Runner - clicked on bulkorder and verified it
+14:54:15.061 [main] INFO  com.urbanladder.runner.Runner - logged in rithik
+14:54:19.902 [main] INFO  com.urbanladder.runner.Runner - searched for dining table and verified it
+14:54:29.749 [main] INFO  com.urbanladder.runner.Runner - clicked on sale and verfied it
+14:54:38.603 [main] INFO  com.urbanladder.runner.Runner - clicked on living and verfied it
+14:54:47.958 [main] INFO  com.urbanladder.runner.Runner - clicked on bedroom and verfied it
+14:54:56.825 [main] INFO  com.urbanladder.runner.Runner - clicked on storage and verfied it
+14:55:05.510 [main] INFO  com.urbanladder.runner.Runner - clicked on study and verfied it
+14:55:14.859 [main] INFO  com.urbanladder.runner.Runner - clicked on kids and verfied it
+14:55:25.306 [main] INFO  com.urbanladder.runner.Runner - clicked on giftcard and verified it
+14:55:27.385 [main] INFO  com.urbanladder.runner.Runner - clicked on bulkorder and verified it
+14:57:10.464 [main] INFO  com.urbanladder.runner.Runner - logged in srujan
+14:57:14.280 [main] INFO  com.urbanladder.runner.Runner - searched for dining table and verified it
+15:03:21.331 [main] INFO  com.urbanladder.runner.Runner - logged in srujan
+15:03:25.120 [main] INFO  com.urbanladder.runner.Runner - searched for dining table and verified it
+15:03:35.450 [main] INFO  com.urbanladder.runner.Runner - clicked on sale and verfied it
+15:03:45.188 [main] INFO  com.urbanladder.runner.Runner - clicked on living and verfied it
+15:03:55.576 [main] INFO  com.urbanladder.runner.Runner - clicked on bedroom and verfied it
+15:04:04.633 [main] INFO  com.urbanladder.runner.Runner - clicked on storage and verfied it
+15:04:13.325 [main] INFO  com.urbanladder.runner.Runner - clicked on study and verfied it
+15:04:23.798 [main] INFO  com.urbanladder.runner.Runner - clicked on kids and verfied it
+15:09:03.148 [main] INFO  com.urbanladder.runner.Runner - logged in srujan
+15:09:07.918 [main] INFO  com.urbanladder.runner.Runner - searched for dining table and verified it
+15:09:21.247 [main] INFO  com.urbanladder.runner.Runner - clicked on sale and verfied it
+15:09:31.580 [main] INFO  com.urbanladder.runner.Runner - clicked on living and verfied it
+15:09:40.318 [main] INFO  com.urbanladder.runner.Runner - clicked on bedroom and verfied it
+15:09:49.347 [main] INFO  com.urbanladder.runner.Runner - clicked on storage and verfied it
+15:11:17.228 [main] INFO  com.urbanladder.runner.Runner - logged in srujan
+15:11:20.795 [main] INFO  com.urbanladder.runner.Runner - searched for dining table and verified it
+15:11:36.658 [main] INFO  com.urbanladder.runner.Runner - clicked on sale and verfied it
+15:11:51.189 [main] INFO  com.urbanladder.runner.Runner - clicked on living and verfied it
+15:12:05.035 [main] INFO  com.urbanladder.runner.Runner - clicked on bedroom and verfied it
+15:12:19.000 [main] INFO  com.urbanladder.runner.Runner - clicked on storage and verfied it
+15:12:56.737 [main] INFO  com.urbanladder.runner.Runner - clicked on kids and verfied it
+15:13:06.972 [main] INFO  com.urbanladder.runner.Runner - clicked on giftcard and verified it
+15:13:08.964 [main] INFO  com.urbanladder.runner.Runner - clicked on bulkorder and verified it
